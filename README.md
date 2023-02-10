@@ -1,2 +1,2 @@
-# theoutlet-pm
-project management of the outlet
+# Kurate-pm
+project management of the Kurate
